@@ -1,0 +1,1 @@
+![SamsungGalaxyA21](zadanie2.PNG)
