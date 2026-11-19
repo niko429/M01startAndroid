@@ -11,3 +11,6 @@
 | `libs.versions.toml` | Centralny rejestr przechowujący numery wersji wszystkich bibliotek i wtyczek używanych w projekcie. | `requirements.txt` / `pyproject.toml` |
 
 ![Za awarię (`NullPointerException`) odpowiada linia `buttonStart.setOnClickListener(...)` w metodzie `onCreate` w pliku `MainActivity.java`, ponieważ metoda `findViewById` została wywołana przed `setContentView` i zwróciła wartość `null`.](Zadanie_6_i_7.PNG)
+
+
+Zadanie 8: Licznik zmniejsza się z obrotem ekranu oraz chce on zająć cały ekran, zmniejsza się ponieważ jak wspomniałem musi zająć ekran
